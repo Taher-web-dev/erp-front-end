@@ -1,0 +1,83 @@
+.product-inf {
+  background-color: rgb(33, 37, 41);
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 10%;
+}
+
+.logo-img {
+  width: 10%;
+  margin: 2.5% 0 2.5% 45%;
+}
+
+.select-wrapper {
+  margin-left: 10%;
+  width: 6%;
+  background-color: rgb(33, 37, 41);
+  border: none;
+  outline: none;
+  cursor: pointer;
+  font-family: 'Inter', sans-serif;
+  font-weight: 400;
+  font-size: 15px;
+  color: rgb(174, 171, 167);
+}
+
+.select-wrapper:hover {
+  color: white;
+  font-weight: 600;
+}
+
+hr {
+  width: 40%;
+  margin-left: 10%;
+  border-color: rgb(174, 171, 167);
+}
+
+.app-desc {
+  width: 40%;
+  margin-left: 10%;
+}
+
+.app-desc {
+  color: rgb(174, 171, 167);
+  font-size: 12px;
+  font-weight: 400;
+  font-family: 'Inter', sans-serif;
+}
+
+.links {
+  width: 10%;
+  display: flex;
+  justify-content: space-between;
+  margin-left: 10%;
+}
+
+.link {
+  text-decoration: none;
+}
+
+.developer-inf {
+  background-color: black;
+  font-family: 'Inter', sans-serif;
+}
+
+.prog-editor {
+  display: flex;
+  align-items: center;
+  margin: 0 0 0 10%;
+  color: #aeaba7;
+  font-weight: 600;
+  font-size: 14px;
+  padding: 0.625% 0;
+}
+
+.dev-name {
+  color: white;
+  align-self: center;
+  margin-bottom: 0;
+}
+
+.footer-wrapper {
+  margin-bottom: 1%;
+}

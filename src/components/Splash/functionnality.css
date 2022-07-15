@@ -1,0 +1,14 @@
+.function {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 23px;
+  color: #343a40;
+  text-transform: capitalize;
+}
+
+.function:hover {
+  color: #017e84;
+  font-weight: 500;
+
+  /* line-height: 30px; */
+}

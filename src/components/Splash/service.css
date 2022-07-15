@@ -1,0 +1,12 @@
+.service-wrapper {
+  display: flex;
+  background-color: white;
+  width: 20%;
+  padding: 0.5%;
+  margin-right: 2%;
+}
+
+.service-icon {
+  width: 20%;
+  margin-right: 2.5%;
+}

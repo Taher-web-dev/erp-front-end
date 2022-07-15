@@ -1,0 +1,49 @@
+.Sign-out-wrapper {
+  position: absolute;
+  width: 15%;
+  border: 1px solid white;
+  border-radius: 8px;
+  z-index: 999;
+  left: 84%;
+  top: 11.5%;
+  background-color: rgba(100, 64, 90);
+}
+
+.user-title {
+  margin-bottom: 0;
+  margin-left: 5%;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 16px;
+  color: white;
+}
+
+.user {
+  margin-bottom: 0;
+  margin-left: 5%;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 16px;
+  font-weight: 700;
+  text-transform: capitalize;
+  color: white;
+}
+
+.seperator {
+  background-color: white;
+  height: 1px;
+  width: 100%;
+  margin: 0 0 12.5px 0;
+}
+
+.sign-out {
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: 400;
+  margin-left: 5%;
+  font-size: 16px;
+  color: white;
+  cursor: pointer;
+  opacity: 0.7;
+}
+
+.sign-out:hover {
+  color: rgb(158, 179, 229);
+}

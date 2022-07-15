@@ -1,0 +1,23 @@
+.over-all-presentation {
+  display: grid;
+  grid-template-columns: 52.5% 47.5%;
+}
+
+.text-presentation {
+  grid-column: 1 / span 1;
+  padding: 8% 12.5%;
+}
+
+.img-pres-wrapper {
+  grid-column: 2 / span 1;
+}
+
+.img-presentation {
+  width: 95%;
+  margin-right: 5%;
+}
+
+.empty-seperator {
+  height: 50px;
+  background-color: rgb(228, 228, 228);
+}
